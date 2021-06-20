@@ -26,7 +26,7 @@ module.exports = {
       },
       data: {
         content,
-        embeds,
+        //embeds,
         username,
         avatar_url,
       }
